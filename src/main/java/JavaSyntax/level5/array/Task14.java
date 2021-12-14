@@ -16,6 +16,9 @@ public class Task14 {
     public static int element = 5;
 
     public static void main(String[] args) {
+
+
+
 //        int[] copy = Arrays.copyOf(array, array.length);
 //        Arrays.sort(copy);
 //        int index = Arrays.binarySearch(array,element);
